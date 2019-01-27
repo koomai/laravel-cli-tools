@@ -1,2 +1,1 @@
-# laravel-cli-tools
-CLI tools for Laravel
+# Laravel CLI Tools
